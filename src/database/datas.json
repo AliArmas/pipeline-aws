@@ -4,5 +4,11 @@
        "password" : "password1",
        "profession" : "Desarrollador",
        "id": 1
-    }
+    },
+    "user2" : {
+      "name" : "Profe pasame porfi",
+      "password" : "porfi",
+      "profession" : "porfi",
+      "id": 2
+   }
  }
